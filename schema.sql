@@ -29,5 +29,3 @@ CREATE TABLE IF NOT EXISTS ratings (
 
 select * from movies;
 
-drop database movie_db;
-
