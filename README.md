@@ -1,4 +1,4 @@
-# MovieLens ETL Pipeline
+# Movie Data Pipeline
 
 This project implements a complete **ETL (Extract, Transform, Load)** pipeline that integrates data from the **MovieLens dataset** and the **OMDb API**, cleans and enriches it, and loads it into a **MySQL database** for analysis.  
 The entire workflow was developed and tested in **Jupyter Notebook**.
